@@ -1,6 +1,6 @@
-# HospitalFlow: Unified Clinical Orchestration
+# MediFlow: Unified Clinical Orchestration
 
-**HospitalFlow** is an enterprise-grade automation platform designed to bridge the structural communication gaps in modern healthcare institutions. By digitizing the "clinical nervous system," HospitalFlow eliminates manual coordination, reduces patient waiting times, and ensures high-fidelity data synchronization across departments.
+**MediFlow** is an enterprise-grade automation platform designed to bridge the structural communication gaps in modern healthcare institutions. By digitizing the "clinical nervous system," MediFlow eliminates manual coordination, reduces patient waiting times, and ensures high-fidelity data synchronization across departments.
 
 ---
 
@@ -10,13 +10,13 @@ Modern hospitals often suffer from "Departmental Silos"—where the Lab, Pharmac
 *   **Operational Friction**: Manual verification of insurance and billing.
 *   **Patient Anxiety**: Lack of transparency in treatment progress.
 
-**HospitalFlow** provides a unified "Neural Protocol" that connects every department in real-time.
+**MediFlow** provides a unified "Neural Protocol" that connects every department in real-time.
 
 ---
 
 ## 🚀 Key Portals & Workflows
 
-HospitalFlow is built around three distinct, high-performance dashboards tailored to specific hospital roles:
+MediFlow is built around three distinct, high-performance dashboards tailored to specific hospital roles:
 
 ### 1. Medical Staff Dashboard (Doctor Portal)
 *   **Clinical Roster**: Real-time management of active patient prototypes.
@@ -99,4 +99,4 @@ npm run dev # Starts the Vite server on port 5173
 *   **Role-Based Access Control (RBAC)**: Strict departmental permissions.
 
 ---
-**HospitalFlow** // *Forging the future of medical coordination.*
+**MediFlow** // *Forging the future of medical coordination.*
