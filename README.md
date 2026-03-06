@@ -1,3 +1,7 @@
+## Live Link
+
+- https://hospital-automation.vercel.app/
+
 # MediFlow: Unified Clinical Orchestration
 
 **MediFlow** is an enterprise-grade automation platform designed to bridge the structural communication gaps in modern healthcare institutions. By digitizing the "clinical nervous system," MediFlow eliminates manual coordination, reduces patient waiting times, and ensures high-fidelity data synchronization across departments.
